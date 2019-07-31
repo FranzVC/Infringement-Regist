@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InfringementRegister</string>
+    <string name="txb_name">Insert your name</string>
+    <string name="txb_address">Insert your address</string>
+    <string name="txb_enrollment">Insert your enrollment number</string>
+    <string name="txb_id">Insert your id number</string>
+    <string name="btn_save">Save</string>
+    <string name="label_tittle">Infringement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
